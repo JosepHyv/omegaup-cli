@@ -3,6 +3,7 @@ from urllib.request import urlopen
 
 class OmegaupProblemParse(HTMLParser):
 	'''
+	fix this shit maybe later :D!!
 	def __init__(self, folder):
 		HTMLParser.__init__(self)
 	'''
